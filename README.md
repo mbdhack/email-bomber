@@ -1,4 +1,3 @@
 email-bomber
 ============
-
-ch
+An email spammer script written in python 
